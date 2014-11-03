@@ -1,0 +1,10 @@
+.text-box {
+    rows = 20;
+    cols = 10;
+    wrap = "soft";
+    disabled = "yes";
+}
+
+html {
+    text-align: center;
+} 
